@@ -11,7 +11,7 @@
 	<properties>
 		<spring.version>4.3.13.RELEASE</spring.version>
 		<spring_security.version>4.0.4.RELEASE</spring_security.version>
-		<jdbc.version>6.0.3</jdbc.version>
+		<jdbc.version>8.0.16</jdbc.version>
 	</properties>
 
 	<dependencies>
